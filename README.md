@@ -2,18 +2,46 @@
 
 ## Overview
 
-This project contains a personal SOC homelab using Wazuh SIEM for Windows event monitoring and threat detection.
+Personal SOC homelab using Wazuh SIEM for Windows event monitoring, threat detection and incident investigation.
+
+---
 
 ## Environment
 
 - Ubuntu Server
 - Wazuh Manager
-- Windows Endpoint
+- Windows 10 Endpoint
 - Wazuh Agent
 
-## Objectives
+---
 
-- Threat detection
-- Log analysis
+## Detection Scenarios
+
+| Scenario | Status |
+|---|---|
+| Failed Login Detection | ✅ |
+
+---
+
+## MITRE ATT&CK Techniques
+
+| Technique | ID |
+|---|---|
+| Brute Force | T1110 |
+
+---
+
+## Project Goals
+
+- SIEM practice
+- Windows event monitoring
+- Threat hunting
 - Incident investigation
-- SOC practice
+- MITRE ATT&CK mapping
+- Blue Team portfolio
+
+---
+
+## Screenshots
+
+![Dashboard](screenshots/wazuh-dashboard-4625.png)
