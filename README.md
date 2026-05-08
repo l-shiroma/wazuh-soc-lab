@@ -10,7 +10,7 @@ Personal SOC homelab using Wazuh SIEM for Windows event monitoring, threat detec
 
 - Ubuntu Server
 - Wazuh Manager
-- Windows 10 Endpoint
+- Windows 11 Endpoint
 - Wazuh Agent
 
 ---
