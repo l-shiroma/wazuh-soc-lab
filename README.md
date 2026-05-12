@@ -4,14 +4,33 @@
 
 Personal SOC homelab using Wazuh SIEM for Windows event monitoring, threat detection and incident investigation.
 
+
+The environment includes:
+- Wazuh SIEM
+- Windows endpoints
+- Sysmon telemetry
+- Multi-endpoint monitoring
+- Threat hunting scenarios
+
 ---
 
 ## Environment
 
-- Ubuntu Server
-- Wazuh Manager
-- Windows 11 Endpoint
-- Wazuh Agent
+- Ubuntu Server running Wazuh Manager
+- Windows endpoint with Wazuh Agent
+- Windows sandbox VM
+- Sysmon installed on endpoints
+
+---
+
+## Technologies Used
+
+- Wazuh
+- Sysmon
+- Windows Event Logs
+- SIEM
+- Threat Hunting
+- VirtualBox
 
 ---
 
@@ -39,6 +58,7 @@ Personal SOC homelab using Wazuh SIEM for Windows event monitoring, threat detec
 - Incident investigation
 - MITRE ATT&CK mapping
 - Blue Team portfolio
+- Endpoint telemetry
 
 ---
 
