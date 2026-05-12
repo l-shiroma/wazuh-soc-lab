@@ -34,8 +34,11 @@ Observed:
 ---
 
 ## Evidence
+![wazuh-threat-hunting-dashboard](../screenshots/wazuh-threat-hunting-dashboard.png)
 
-(Add screenshots)
+![4720-event-wazuh](../screenshots/4720-event-wazuh.png)
+
+![4720-eventviewer](../screenshots/4720-win-eventviewer.png)
 
 ---
 
