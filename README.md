@@ -34,6 +34,10 @@ The environment includes:
 
 ---
 
+## Architecture
+
+![SOC Topology](screenshots/soc-homelab.drawio.png)
+
 ## Detection Scenarios
 
 | Scenario | Status |
