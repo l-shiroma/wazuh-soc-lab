@@ -43,6 +43,7 @@ The environment includes:
 | Scenario | Status |
 |---|---|
 | Failed Login Detection | ✅ |
+| User Creation Detection | ✅ |
 
 ---
 
@@ -51,6 +52,7 @@ The environment includes:
 | Technique | ID |
 |---|---|
 | Brute Force | T1110 |
+| Create Account | T1136 |
 
 ---
 
