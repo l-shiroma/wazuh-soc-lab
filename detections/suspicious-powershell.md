@@ -73,7 +73,6 @@ The investigation revealed that a PowerShell process launched a second PowerShel
 
 | Field | Value |
 |---|---|
-| User | NORMANDY\\Shiroma |
 | Parent Process | powershell.exe |
 | Child Process | powershell.exe |
 | Integrity Level | High |
