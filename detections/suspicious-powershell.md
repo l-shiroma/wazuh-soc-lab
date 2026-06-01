@@ -100,15 +100,15 @@ Although legitimate administrators may use the `-ExecutionPolicy Bypass` paramet
 
 ### Alert Details
 
-![Alert Details](../screenshots/powershell-alert-details.png)
-
+![Alert Details](../screenshots/powershell-alert-details1.png)
+![Alert Details](../screenshots/powershell-alert-details2.png)
 ### Sysmon Event
 
 ![Sysmon Event](../screenshots/sysmon-eventid1-powershell.png)
 
 ### PowerShell Execution
 
-![PowerShell Execution](../screenshots/powershell-bypass-command.png)
+![PowerShell Execution](../screenshots/powershell-command.png)
 
 ---
 
